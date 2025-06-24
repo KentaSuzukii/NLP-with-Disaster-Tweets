@@ -16,7 +16,7 @@ Disaster relief organizations and news agencies want to programmatically monitor
 
 ```bash
 .
-├── notebook.ipynb            # Main Jupyter Notebook with code
+├── twitter_disaster.ipynb            # Main Jupyter Notebook with code
 ├── submission.csv            # Final submission file for Kaggle
 ├── README.md                 # Project overview
 └── data/
